@@ -1,7 +1,0 @@
-opencv-python
-werkzeug
-numpy
-flask
-flask-cors
-pillow
-tensorflow
